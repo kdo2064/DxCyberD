@@ -50,7 +50,7 @@ Termux commands.
 
 
 ## Usage
-After installing DxCyberD, you can use it to generate custom keyloggers. Here’s the basic command to run DxCyberD:`
+After installing DxCyberD, Here’s the basic command to run DxCyberD:`
 * `python3 dx.py` for CLI mood
 * `python3 dx-web.py` for GUI mood
 
